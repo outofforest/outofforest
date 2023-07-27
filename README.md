@@ -20,4 +20,7 @@
 - I make an effort to apply computer vision and statistics (or machine learning algorithms if you prefer cool names) to find better methods of cancer treatment. There are many lifes waiting for being saved. Doctor is able to diagnose one patient at a time only. Software developer may analyse thousands of cases every day, even after his/her death.
 - I've been mastering my [OSMan project](https://go.exw.co/osman) building Fedora images used to boot my computers. It is a weird stuff connecting ZFS, Fedora, QEMU, linux containers and initramfs to provide a reliable way to build and boot operating systems.
 
+# Hire me
+- [My LinkedIn profile](https://www.linkedin.com/in/wmalota/)
+
 ![Pixel](https://go.exw.co/pixel)
