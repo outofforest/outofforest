@@ -21,6 +21,6 @@
 - I've been mastering my [OSMan project](https://go.exw.co/osman) building Fedora images used to boot my computers. It is a weird stuff connecting ZFS, Fedora, QEMU, linux containers and initramfs to provide a reliable way to build and boot operating systems.
 
 # Hire me
-- [My LinkedIn profile](https://www.linkedin.com/in/wmalota/)
+- [My LinkedIn profile](https://go.exw.co/linkedin)
 
 ![Pixel](https://go.exw.co/pixel)
