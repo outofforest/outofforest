@@ -17,8 +17,10 @@
 - Worked remotely for companies based in Poland, Finland, Ireland, Israel and USA
 
 # What I work on
-- I make an effort to apply computer vision and statistics (or machine learning algorithms if you prefer cool names) to find better methods of cancer treatment. There are many lifes waiting for being saved. Doctor is able to diagnose one patient at a time only. Software developer may analyse thousands of cases every day, even after his/her death.
+- Currently I'm engaged into development of blockchains.
 - I've been mastering my [OSMan project](https://go.exw.co/osman) building Fedora images used to boot my computers. It is a weird stuff connecting ZFS, Fedora, QEMU, linux containers and initramfs to provide a reliable way to build and boot operating systems.
+- Previously I gathered a lot of experience in developing software managing critical cloud infrastructure systems.
+- Also worked on interesting projects utilizing computer vision and AI in cancer treatment.
 
 # Hire me
 - [My LinkedIn profile](https://go.exw.co/linkedin)
