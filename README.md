@@ -73,6 +73,8 @@ I have an environment ready to be extended at any time.
 - [github.com/outofforest/ioc](https://go.exw.co/ioc)
 - [github.com/outofforest/netdata](https://go.exw.co/netdata)
 - [github.com/outofforest/volume](https://go.exw.co/volume)
+- [github.com/outofforest/sologenic](https://go.exw.co/sologenic)
+- [github.com/outofforest/dymension](https://go.exw.co/dymension)
 
 # Hire me
 - [My LinkedIn profile](https://go.exw.co/linkedin)
